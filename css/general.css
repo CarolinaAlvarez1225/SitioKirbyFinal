@@ -66,7 +66,7 @@ h1 {
     font-family: 'Jaro';
     font-size: 9rem;
 
-    background-image: url('../img/textures/FondoHeader.jpg');
+    background-image: url('/img/textures/FondoHeader.jpg');
     background-size: cover;
     background-position: center;
 
@@ -399,4 +399,5 @@ footer p {
         gap: 40px;
         margin-top: auto;
     }
+
 }
